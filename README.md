@@ -22,3 +22,9 @@ collection, I'll just be that much better off!
 > “In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted.”
 >
 > - Bertrand Russell 
+
+## installation
+Run the following:
+
+- npm install
+- node app.js
