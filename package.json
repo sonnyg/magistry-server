@@ -1,0 +1,22 @@
+{
+  "name": "magistry-server",
+  "version": "0.0.1",
+  "description": "REST service for magistry application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnyg/magistry-server.git"
+  },
+  "author": "sonny george",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonnyg/magistry-server/issues"
+  },
+  "homepage": "https://github.com/sonnyg/magistry-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
