@@ -8,9 +8,9 @@ Specifically:
 * JavaScript
 * building a REST based service
 * experimenting with new architectural patterns
-..* functional style programming vs object oriented
-..* explore various logging mechanisms
-..* different types of asynchronous programming
+  * functional style programming vs object oriented
+  * explore various logging mechanisms
+  * different types of asynchronous programming
     
 In a nutshell, I'm looking to get my mind out of a box and challenge
 my modus operandi.
